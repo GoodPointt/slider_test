@@ -301,6 +301,7 @@ a {
 	position: relative;
 }
 .sliderb .swiper-slide {
+	box-shadow: ;
 	width: 254px;
 	height: 254px;
 	background-repeat: no-repeat;
