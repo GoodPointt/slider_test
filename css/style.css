@@ -284,7 +284,11 @@ a {
 }
 
 /* SLIDER II */
-
+.slider-wrap {
+	width: 400px;
+	height: 400px;
+	overflow: hidden;
+}
 .mySwiper.swiper {
 	height: 250px;
 	width: 320px;
@@ -301,7 +305,6 @@ a {
 	position: relative;
 }
 .sliderb .swiper-slide {
-	box-shadow: ;
 	width: 254px;
 	height: 254px;
 	background-repeat: no-repeat;

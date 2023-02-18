@@ -3,5 +3,5 @@ var swiper = new Swiper(".mySwiper", {
 	direction: "horizontal",
 	loop: true,
 	speed: 1000,
-	spaceBetween: 30,
+	spaceBetween: 16,
 });
